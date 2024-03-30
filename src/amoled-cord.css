@@ -422,7 +422,7 @@ html.theme-dark .theme-light .root_a28985,
 }
 
 body {
-  background: rgba(var(--background-primary-rgb), 0.5) !important;
+  background: rgba(var(--background-primary), 0.1) !important;
 }
 body .colorLight-1o6rnK {
   background-color: var(--background-tertiary);
